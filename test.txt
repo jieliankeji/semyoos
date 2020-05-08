@@ -1,0 +1,15 @@
+1 注册github账号
+2 安装git
+
+3 新建一个文件-》git bash 
+
+4 初始化
+git init
+
+git remote add origin  git地址，http协议，
+
+5 新建问题件
+test
+git add .
+git commit -m "aaa" 提交备注
+git push -u origin master （第二次直接用git push）
